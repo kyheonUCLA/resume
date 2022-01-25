@@ -1,0 +1,42 @@
+@font-face {
+    font-family: ComicNeueSans;
+    src: url(assets/fonts/ComicNeueSansID.ttf);
+}
+
+@font-face {
+    font-family: Southmore;
+    src: url(assets/fonts/Southmore.ttf);
+}
+
+@font-face {
+    font-family: ChineseTakeaway;
+    src: url('assets/fonts/ChineseTakeaway.ttf');
+}
+
+.mainBody {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.section {
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+
+.subsection {
+    font-weight: bold;
+    margin-top: 0px;
+}
+
+.title {
+    font-size: 48px;
+    margin-bottom: 0px;
+}
+
+.titleDiv {
+    text-align: center;
+}
+
+.alignR {
+    float: right;
+}
